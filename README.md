@@ -1,2 +1,4 @@
-# D-placement-des-Template
-Tout les Template on changé d'endroit !
+# Deplacement-des-Template
+
+Tout les Template sont disponilble sur notre site ! : https://pterodactyl-template-france.tk/
+
